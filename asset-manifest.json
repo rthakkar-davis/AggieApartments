@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.b3b652af.css",
-    "main.js": "/static/js/main.8011bdf6.js",
-    "static/media/GreenToSilo.png": "/static/media/GreenToSilo.571e45b6dcd59b133143.png",
-    "static/media/IdentityCover.jpg": "/static/media/IdentityCover.0b6007dabb2216419d2d.jpg",
-    "static/media/theGreen3.jpg": "/static/media/theGreen3.093d3f06a595bc9e60cd.jpg",
-    "static/media/theGreen1.jpg": "/static/media/theGreen1.d19d3679b17865447e2b.jpg",
-    "static/media/theGreen4.png": "/static/media/theGreen4.c6791b0b9c86e80426b8.png",
-    "static/media/theGreen2.jpg": "/static/media/theGreen2.0c7361a483cebb6c5c3f.jpg",
-    "static/media/TheUCover.jpg": "/static/media/TheUCover.0648c91c0e8af8ad98c0.jpg",
-    "static/media/SolCover.jpg": "/static/media/SolCover.34b77fc478376777d661.jpg",
-    "index.html": "/index.html",
-    "main.b3b652af.css.map": "/static/css/main.b3b652af.css.map",
-    "main.8011bdf6.js.map": "/static/js/main.8011bdf6.js.map"
+    "main.css": "/AggieApartments/static/css/main.b3b652af.css",
+    "main.js": "/AggieApartments/static/js/main.5926e0ab.js",
+    "static/media/GreenToSilo.png": "/AggieApartments/static/media/GreenToSilo.571e45b6dcd59b133143.png",
+    "static/media/IdentityCover.jpg": "/AggieApartments/static/media/IdentityCover.0b6007dabb2216419d2d.jpg",
+    "static/media/theGreen3.jpg": "/AggieApartments/static/media/theGreen3.093d3f06a595bc9e60cd.jpg",
+    "static/media/theGreen1.jpg": "/AggieApartments/static/media/theGreen1.d19d3679b17865447e2b.jpg",
+    "static/media/theGreen4.png": "/AggieApartments/static/media/theGreen4.c6791b0b9c86e80426b8.png",
+    "static/media/theGreen2.jpg": "/AggieApartments/static/media/theGreen2.0c7361a483cebb6c5c3f.jpg",
+    "static/media/TheUCover.jpg": "/AggieApartments/static/media/TheUCover.0648c91c0e8af8ad98c0.jpg",
+    "static/media/SolCover.jpg": "/AggieApartments/static/media/SolCover.34b77fc478376777d661.jpg",
+    "index.html": "/AggieApartments/index.html",
+    "main.b3b652af.css.map": "/AggieApartments/static/css/main.b3b652af.css.map",
+    "main.5926e0ab.js.map": "/AggieApartments/static/js/main.5926e0ab.js.map"
   },
   "entrypoints": [
     "static/css/main.b3b652af.css",
-    "static/js/main.8011bdf6.js"
+    "static/js/main.5926e0ab.js"
   ]
 }
