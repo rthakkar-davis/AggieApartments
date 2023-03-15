@@ -1,0 +1,26 @@
+.App {
+  background-color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+.QnAContainer{
+  display: flex;
+  flex-direction: column;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: row;
+  font-size: calc(10px + 2vmin);
+  padding: 30px;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.logoContainer{
+  width: 472px;
+}
+.logo{
+  width: 100%;
+}

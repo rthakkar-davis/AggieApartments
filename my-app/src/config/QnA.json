@@ -1,0 +1,46 @@
+[{
+	"questionUsername": "DavisStudent129",
+	"answerUsername": "DavisEnjoyer1812",
+	"questionID": 0,
+	"apartmentID": 0,
+	"questionText": "Is there in-unit laundry?",
+	"answerText": "No laundry machines are shared and pay per use.",
+	"dateAnswered": "2021-07-02T23:50:21.817Z"
+},
+{
+	"questionUsername": "DavisAttender48",
+	"answerUsername": "DavisSufferer128",
+	"questionID": 0,
+	"apartmentID": 1,
+	"questionText": "Is the apartment complex noisy, or are the walls thin?",
+	"answerText": "Unfortunately, the apartment complex can be noisy at times, especially if you have neighbors who are loud or play music late at night. The walls are relatively thin, and you can hear your neighbors' conversations or footsteps easily.",
+	"dateAnswered": "2022-06-24T23:50:21.817Z"
+},
+{
+	"questionUsername": "CowtownSurrealist98",
+	"answerUsername": "John. S. Andrews",
+	"questionID": 0,
+	"apartmentID": 2,
+	"questionText": "How responsive is the landlord or property management when you need repairs or maintenance?",
+	"answerText": "The landlord or property management team is generally quick to respond to maintenance requests. They usually respond within 24-48 hours, depending on the severity of the issue. They are polite and professional in handling repair or maintenance concerns.",
+	"dateAnswered": "2022-05-28T23:50:21.817Z"
+},
+{
+	"questionUsername": "Thomas Brady Jr.",
+	"answerUsername": "Eli Manning",
+	"questionID": 0,
+	"apartmentID": 3,
+	"questionText": "Is there a squat rack in the gym?",
+	"answerText": "No the gym does not have a squat rack but there is a smith machine.",
+	"dateAnswered": "2021-07-02T23:50:21.817Z"
+},
+{
+	"questionUsername": "DavisBlochSphere",
+	"answerUsername": "KetNotation",
+	"questionID": 0,
+	"apartmentID": 4,
+	"questionText": "Are emotional support animals allowed?",
+	"answerText": "Yes ESAs are allowed provided you procure the proper documentation.",
+	"dateAnswered": "2022-08-18T23:50:21.817Z"
+}
+]

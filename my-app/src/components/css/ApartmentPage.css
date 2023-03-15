@@ -1,0 +1,36 @@
+.nameContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-top: 1px solid black;
+}
+.aptImageContainer{
+    width: 500px;
+}
+.bigContainer{
+    padding: 30px;
+    padding-top: 0;
+}
+.nameAndAddress {
+    margin-right: 30px;
+}
+.rating{
+    font-size: 30px;
+    margin-top: 40px;
+    margin-right: 50px;
+}
+.iconsContainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+}
+.big-button{
+    width: 500px;
+    height: 60px;
+}
+.priorityContainer{
+    display: flex;
+    flex-direction: row;
+}

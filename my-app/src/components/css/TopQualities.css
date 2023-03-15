@@ -1,0 +1,8 @@
+.listQualities{
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 30px;
+}
+.topQualitiesContainer{
+    padding-right: 5px;
+}

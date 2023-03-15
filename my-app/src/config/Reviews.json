@@ -1,0 +1,51 @@
+[{
+	"username": "DavisStudent129",  
+	"reviewID": 0,
+	"aptId": 0,
+	"rating": 3.0,
+	"reviewText": "I wish I stayed somewhere else. The location is great and but the staff is not responsive. The amenities are ok but I wish we had a pool since apartments with similar rent have one.",
+	"qualities": ["Close to campus", "Thin walls", "Inconsistent wi-fi"],
+	"apartmentType": "Single",
+	"numBedBath": "4 bed 2 bath"
+},
+{
+	"username": "DavisSufferer128",  
+	"reviewID": 0,
+	"aptId": 1,
+	"rating": 4.0,
+	"reviewText": "I loved my stay at Sol! The location is great and the staff is friendly and helpful. The amenities are also fantastic - the pool and hot tub are a great way to relax after a long day. My only complaint is that the walls are a bit thin, so noise can be an issue.",
+	"qualities": ["Close to campus", "Inconsistent wi-fi", "In unit laundry", "Balcony"],
+	"apartmentType": "Single",
+	"numBedBath": "4 bed 4 bath"
+},
+{
+	"username": "John. S. Andrews",  
+	"reviewID": 0,
+	"aptId": 2,
+	"rating": 3.0,
+	"reviewText": "The U Apartments are okay for the price, but there are definitely some downsides. The complex is pretty old and could use some updating, and parking can be a real hassle. On the plus side, it's close to the bike trail and has a nice community garden.",
+	"qualities": ["In unit laundry", "Balcony"],
+	"apartmentType": "Double",
+	"numBedBath": "4 bed 2 bath"
+},
+{
+	"username": "Eli Manning",  
+	"reviewID": 0,
+	"aptId": 3,
+	"rating": 4.0,
+	"reviewText": "The apartment itself is spacious and modern, with high-end finishes and appliances. The amenities are top-notch too - the pool, gym, and lounge areas are all fantastic. Overall, I recommend if the steep rent is in your budget.",
+	"qualities": ["Close to campus", "Modern amenities"],
+	"apartmentType": "Double",
+	"numBedBath": "4 bed 4 bath"
+},
+{
+	"username": "KetNotation",  
+	"reviewID": 0,
+	"aptId": 4,
+	"rating": 2.0,
+	"reviewText": " I've been living at Ryder on Olive for a few months now and have had a mostly positive experience. The location is convenient, with lots of shopping and restaurants nearby. The apartment itself is spacious and comfortable, with plenty of storage space. The amenities are also nice - the pool and gym are well-maintained.",
+	"qualities": ["Close to downtown", "Modern amenities", "Inconsistent wi-fi"],
+	"apartmentType": "Single",
+	"numBedBath": "4 bed 2 bath"
+}
+]
